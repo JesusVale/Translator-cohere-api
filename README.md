@@ -4,10 +4,9 @@ This is a Rest API made with node and React that uses [Cohere API](https://coher
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
+- [Getting Started](#getting-started)
 - [Installing](#installing)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## About
 This project was developed with Node + Typescript, and it allows to translate text from different languages
@@ -61,8 +60,8 @@ API_KEY_COHERE=YOUR_API_KEY
 #### Query params
 |Param       | Description |
 |------------|-------------|
-|from        | The language from the one you want to translate, it takes any code of language (look at [Supported Languages](#supported_languages)). It also can take the value "auto" that detects the language automatically |
-|to        | The language to the one you want to translate, it takes any code of language (look at [Supported Languages](#supported_languages)) |
+|from        | The language from the one you want to translate, it takes any code of language (look at [Supported Languages](#supported-languages)). It also can take the value "auto" that detects the language automatically |
+|to        | The language to the one you want to translate, it takes any code of language (look at [Supported Languages](#supported-languages)) |
 |to        | The text you want to translate |
 
 #### Example
